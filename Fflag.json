@@ -1,0 +1,19 @@
+{
+"FIntRakNetResendBufferArrayLength": "256",
+"FFlagOptimizeNetwork": "True",
+"FFlagOptimizeNetworkRouting": "True",
+"FFlagOptimizeNetworkTransport": "True",
+"FFlagOptimizeServerTickRate": "True",
+"DFIntServerPhysicsUpdateRate": "120",
+"DFIntServerTickRate": "120",
+"DFIntConnectionMTUSize": 1200,
+"DFIntRakNetResendRttMultiple": "0.5",
+"DFIntRaknetBandwidthPingSendEveryXSeconds": "0.5",
+"DFIntOptimizePingThreshold": "30",
+"DFIntPlayerNetworkUpdateQueueSize": "10",
+"DFIntPlayerNetworkUpdateRate": "120",
+"DFIntNetworkPrediction": "240",
+"DFIntNetworkLatencyTolerance": "0",
+"DFIntMinimalNetworkPrediction": "0.05"
+"FlntDebugTextureManagerSkipMips": "8"
+}
